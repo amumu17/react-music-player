@@ -2,7 +2,8 @@
 # 所用
   - react    
   - webpack(各项Loader及plugins)    
-  - pubsub-js（发布订阅用于实现组件之间的通信）    
+  - pubsub-js（发布订阅用于实现组件之间的通信） 
+  - jPlayer    
  # 实现
   - 播放/暂停    
   - 上一曲/下一曲    
